@@ -15,8 +15,8 @@
   body {
   background-color:beige;  /* set the background color here */
   color: black;  /* set the text color to black here */
-    /* set the font here */
-    /* set the text alignment here */
+    font-family: Arial, Helvetica, sans-serif;/* set the font here */
+    here */ text-align: center;/* set the text alignment here */
    }
 
   footer {
